@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Coucou</string>
-    <string name="app_description">Companion mobile pour Hermes</string>
-    <string name="connect_to_pc">Connecte-toi au pont Hermes de ton PC pour commencer.</string>
-    <string name="wake_word_hint">Dit "Coucou" pour ouvrir l\'application</string>
-    <string name="overlay_notification_title">Coucou</string>
-    <string name="overlay_notification_text">Écoute en arrière-plan</string>
-</resources>

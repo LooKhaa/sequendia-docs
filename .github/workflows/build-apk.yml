@@ -15,7 +15,7 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
-      - name: Build APK
+      - name: Build with Gradle
         run: |
           cd CoucouAndroid
           chmod +x gradlew
